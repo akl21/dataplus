@@ -2,6 +2,7 @@ library(shiny)
 library(leaflet)
 library(magrittr)
 
+
 ui <- fluidPage(
    
    # Application title
